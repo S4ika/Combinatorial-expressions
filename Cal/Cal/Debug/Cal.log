@@ -1,0 +1,10 @@
+﻿  Cal.cpp
+C:\Users\sn41l\source\repos\Cal\Cal\Cal.cpp(180,36): warning C4244: аргумент: преобразование "long double" в "long", возможна потеря данных
+C:\Users\sn41l\source\repos\Cal\Cal\Cal.cpp(180,26): warning C4244: аргумент: преобразование "long double" в "long", возможна потеря данных
+C:\Users\sn41l\source\repos\Cal\Cal\Cal.cpp(190,23): warning C4244: аргумент: преобразование "long double" в "long", возможна потеря данных
+C:\Users\sn41l\source\repos\Cal\Cal\Cal.cpp(190,17): warning C4244: аргумент: преобразование "long double" в "long", возможна потеря данных
+C:\Users\sn41l\source\repos\Cal\Cal\Cal.cpp(195,23): warning C4244: аргумент: преобразование "long double" в "long", возможна потеря данных
+C:\Users\sn41l\source\repos\Cal\Cal\Cal.cpp(195,17): warning C4244: аргумент: преобразование "long double" в "long", возможна потеря данных
+C:\Users\sn41l\source\repos\Cal\Cal\Cal.cpp(199,21): warning C4244: аргумент: преобразование "long double" в "int", возможна потеря данных
+C:\Users\sn41l\source\repos\Cal\Cal\Cal.cpp(231,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Cal.vcxproj -> C:\Users\sn41l\source\repos\Cal\Debug\Cal.exe
